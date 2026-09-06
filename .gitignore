@@ -1,0 +1,31 @@
+# dependencies / build
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# env — keep .env.example, ignore the rest
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# sqlite databases
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# playwright output
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# dev-server logs
+dev.log
+dev.err.log
+
+# os / editor
+Thumbs.db
+.DS_Store
