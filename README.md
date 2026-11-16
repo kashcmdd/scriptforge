@@ -1,5 +1,10 @@
 # ScriptForge
 
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 A controller-script hub: custom accounts, a searchable script library with
 upload/download/versioning, and a browser-based device connection page built on
 the Web Serial API. Built fresh — not a clone of any existing product.
